@@ -178,6 +178,6 @@ define('_INSTALL_L128', 'インストール作業に使用する言語を選択�
 define('_INSTALL_L200', '再読込');
 
 
-define('_INSTALL_CHARSET','EUC-JP');
+define('_INSTALL_CHARSET','utf-8');
 //define('_CHARSET','EUC-JP');
 ?>

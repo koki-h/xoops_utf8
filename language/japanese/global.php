@@ -165,7 +165,7 @@ define('_WEEK', '1週間');
 define('_MONTH', '1ヶ月');
 
 //%%%%%		LANGUAGE SPECIFIC SETTINGS   %%%%%
-define('_CHARSET', 'EUC-JP');
+define('_CHARSET', 'utf-8');
 define('_LANGCODE', 'ja');
 
 // change 0 to 1 if this language is a multi-bytes language
